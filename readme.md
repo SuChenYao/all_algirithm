@@ -20,3 +20,4 @@ jupyter notebook
 
 
 chinese tutorial: https://hackmd.io/@PvOcNAp8RceqNt2K8X-3Xg/rygWZOMoj
+https://hackmd.io/@PvOcNAp8RceqNt2K8X-3Xg/SyxJiUG9n
